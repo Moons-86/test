@@ -37,11 +37,16 @@ This is `apple`
 <a href="https://google.com">Google</a>
 ```
 
-```javascrip
+```javascript
 function func(){
 	var a = 1;
 	return a;
 }
 ```
 
+# 테이블 태그
 
+|programming|use|software|
+|---|:---:|---:|
+|`java`|`android`|`studio`|
+|`javascript`|`web`|`visual studio`|
