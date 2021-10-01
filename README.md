@@ -37,7 +37,7 @@ This is `apple`
 <a href="https://google.com">Google</a>
 ```
 
-```javascript
+```javascrip
 function func(){
 	var a = 1;
 	return a;
