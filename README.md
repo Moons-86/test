@@ -36,3 +36,12 @@ This is `apple`
 ```html
 <a href="https://google.com">Google</a>
 ```
+
+```javascript
+function func(){
+	var a = 1;
+	return a;
+}
+```
+
+
